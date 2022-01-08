@@ -23,3 +23,5 @@ cd base64
 
 python install.py
 
+[for new use]bash encode.sh 
+
