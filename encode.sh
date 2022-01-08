@@ -1,7 +1,7 @@
 #!/bin/bash
 echo -e "\e[1;34m Setting up tool environment----//--wait--" | lolcat
 sleep 3
-echo "Subscribe to my github repository to continue with the tool" | lolcat
+echo "Please subscribe to my github repository for more tools" | lolcat
 sleep 6
 xdg-open https://github.com/KEAGTORB
 echo -e "\e[0;90m =====[Setup complete]====="
